@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PHP4DelphiDemo", "PHP4DelphiDemo.csproj", "{0DA732DE-42B5-436C-8BD0-9036B7D79EAA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{0DA732DE-42B5-436C-8BD0-9036B7D79EAA}.Debug.ActiveCfg = Debug|.NET
+		{0DA732DE-42B5-436C-8BD0-9036B7D79EAA}.Debug.Build.0 = Debug|.NET
+		{0DA732DE-42B5-436C-8BD0-9036B7D79EAA}.Release.ActiveCfg = Release|.NET
+		{0DA732DE-42B5-436C-8BD0-9036B7D79EAA}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

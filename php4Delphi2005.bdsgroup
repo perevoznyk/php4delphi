@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{6991143E-F46E-46D3-9B7A-CB1FDD4688F7}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="php4DelphiR2005.bpl">php4DelphiR2005.bdsproj</Projects>
+      <Projects Name="php4DelphiD2005.bpl">php4DelphiD2005.bdsproj</Projects>
+      <Projects Name="Targets">php4DelphiR2005.bpl php4DelphiD2005.bpl</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
