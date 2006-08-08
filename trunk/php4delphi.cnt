@@ -1,0 +1,19 @@
+:Base php4delphi.hlp>MAIN
+:Title php4Delphi help system
+1 php4Delphi Units
+2 php4delphi unit=php4delphi_unit
+2 phpFunctions unit=phpfunctions_unit
+2 phpLibrary unit=phplibrary_unit
+1 php4Delphi Components
+2 TpsvPHP component=TpsvPHP_Component
+2 TPHPLibrary component=TPHPLibrary_component
+1 php4Delphi Classes
+2 TPHPVariable class=TPHPVariable_component
+2 TPHPVariables class=TPHPVariables_component
+2 TPHPConstant class=TPHPConstant_component
+2 TPHPConstants class=TPHPConstants_component
+2 TPHPFunction class=TPHPFunction_component
+2 TPHPFunctions class=TPHPFunctions_component
+2 TFunctionParam class=TFunctionParam_component
+2 TFunctionParams class=TFunctionParams_component
+2 TZendVariable class=TZendVariable_component
