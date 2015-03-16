@@ -1,0 +1,1 @@
+PHP4Delphi  is a Visual Development Framework for creating custom PHP Extensions using Delphi. PHP extension, in the most basic of terms, is a set of instructions that is designed to add functionality to PHP.
