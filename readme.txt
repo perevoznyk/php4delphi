@@ -356,13 +356,10 @@ For more information on the PHP Group and the PHP project,
 please see <http://www.php.net>.
 
 
-PHP4Delphi forum
-http://sourceforge.net/forum/forum.php?forum_id=324242
 
 Author:                                              
 Serhiy Perevoznyk                                     
 Belgium
-serge_perevoznyk@hotmail.com
-http://users.chello.be/ws36637/
+
 
 
